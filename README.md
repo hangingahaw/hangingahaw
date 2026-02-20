@@ -31,6 +31,7 @@ hangingahaw — anagram of Haihang Wang
 ### Current Projects
 
 - 🎾 [Carlos Alcaraz Project](https://carlosalcarazproject.com) - Real-time match tracking, stats, and the rise of the next era of tennis
+- 📦 [smartquotify](https://github.com/hangingahaw/smartquotify) - Convert straight quotes to smart quotes — built for legal text, works everywhere
 
 ### Connect
 
