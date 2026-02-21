@@ -28,11 +28,24 @@ hangingahaw — anagram of Haihang Wang
 - **Writing** — notes on law, tech, and what comes next at [haihang.me](https://haihang.me)
 - **Following tennis** — tracking the Alcaraz era at [carlosalcarazproject.com](https://carlosalcarazproject.com)
 
-### Current Projects
+### Legal Text Toolkit
 
-- 🎾 [Carlos Alcaraz Project](https://carlosalcarazproject.com) - Real-time match tracking, stats, and the rise of the next era of tennis
-- ✂️ [smartquotify](https://github.com/hangingahaw/smartquotify) - Convert straight quotes to smart quotes — built for legal text, works everywhere
-- 📐 [lexstyle](https://github.com/hangingahaw/lexstyle) - Structured typography rules for LLM-based text correction
+**Rules** — what correct text looks like
+- 📐 [lexstyle](https://github.com/hangingahaw/lexstyle) — structured typography rules for LLM consumption
+
+**Fixers** — correct the text
+- ✂️ [smartquotify](https://github.com/hangingahaw/smartquotify) — straight quotes → smart quotes *(deterministic, no LLM)*
+- 🔀 [redashify](https://github.com/hangingahaw/redashify) — context-aware dash correction *(LLM-powered, consumes lexstyle)*
+- ⚖️ bluebookify — Bluebook citation formatting *(upcoming)*
+- 🔤 punctify — punctuation correction *(upcoming)*
+- 🔠 capify — capitalization correction *(upcoming)*
+
+**Review** — show what changed
+- 📝 [redlinefy](https://github.com/hangingahaw/redlinefy) — before/after redline markup from any fixer
+
+### Other Projects
+
+- 🎾 [Carlos Alcaraz Project](https://carlosalcarazproject.com) — real-time match tracking, stats, and the rise of the next era of tennis
 
 ### Connect
 
