@@ -24,15 +24,15 @@ hangingahaw — anagram of Haihang Wang
 
 ### What I’m Doing
 
-- ⚖️ **Practicing law in San Francisco** — focused on the intersection of law and technology
-- ✍️ **Writing** — notes on law, tech, and what comes next at [haihang.me](https://haihang.me)
-- 🎾 **Following tennis** — tracking the Alcaraz era at [carlosalcarazproject.com](https://carlosalcarazproject.com)
+- **Practicing law in San Francisco** — focused on the intersection of law and technology
+- **Writing** — notes on law, tech, and what comes next at [haihang.me](https://haihang.me)
+- **Following tennis** — tracking the Alcaraz era at [carlosalcarazproject.com](https://carlosalcarazproject.com)
 
 ### Current Projects
 
 - 🎾 [Carlos Alcaraz Project](https://carlosalcarazproject.com) - Real-time match tracking, stats, and the rise of the next era of tennis
-- 📦 [smartquotify](https://github.com/hangingahaw/smartquotify) - Convert straight quotes to smart quotes — built for legal text, works everywhere
-- 📦 [lexstyle](https://github.com/hangingahaw/lexstyle) - Structured typography rules for LLM-based text correction
+- ✂️ [smartquotify](https://github.com/hangingahaw/smartquotify) - Convert straight quotes to smart quotes — built for legal text, works everywhere
+- 📐 [lexstyle](https://github.com/hangingahaw/lexstyle) - Structured typography rules for LLM-based text correction
 
 ### Connect
 
