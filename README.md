@@ -38,7 +38,7 @@ hangingahaw — anagram of Haihang Wang
 - 🔀 [redashify](https://github.com/hangingahaw/redashify) — context-aware dash correction *(LLM-powered, consumes lexstyle)*
 - ⚖️ bluebookify — Bluebook citation formatting *(upcoming)*
 - 🔤 punctify — punctuation correction *(upcoming)*
-- 🔠 capify — capitalization correction *(upcoming)*
+- 🔠 capitalify — capitalization correction *(upcoming)*
 
 **Review** — show what changed
 - 📝 [redlinefy](https://github.com/hangingahaw/redlinefy) — before/after redline markup from any fixer
