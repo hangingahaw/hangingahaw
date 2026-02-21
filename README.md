@@ -35,10 +35,10 @@ hangingahaw — anagram of Haihang Wang
 
 **Fixers** — correct the text
 - ✂️ [smartquotify](https://github.com/hangingahaw/smartquotify) — straight quotes → smart quotes *(deterministic, no LLM)*
-- 🔀 [redashify](https://github.com/hangingahaw/redashify) — context-aware dash correction *(LLM-powered, consumes lexstyle)*
+- 〰️ [redashify](https://github.com/hangingahaw/redashify) — context-aware dash correction *(LLM-powered, consumes lexstyle)*
 - ⚖️ bluebookify — Bluebook citation formatting *(upcoming)*
-- 🔤 punctify — punctuation correction *(upcoming)*
-- 🔠 recapify — capitalization correction *(upcoming)*
+- 🔍 punctify — punctuation correction *(upcoming)*
+- 🪜 recapify — capitalization correction *(upcoming)*
 
 **Review** — show what changed
 - 📝 [redlinefy](https://github.com/hangingahaw/redlinefy) — before/after redline markup from any fixer
